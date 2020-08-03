@@ -1,0 +1,32 @@
+.container {
+    width: 500px;
+    border-radius: 8px;
+    box-shadow: 10px 5px 10px rgba(0,0,0,0.5);
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #011638;
+}
+
+.header-container {
+    text-align: center;
+    background-color: #F2C14E;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 0;
+}
+
+.text-container {
+    padding: 0 18px;
+    border: 1px solid #F2C14E;
+    border-radius: 0 0 8px 8px;
+}
+
+h1 {
+    margin: 0;
+    color: #011638;
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    color: #DFF8EB;
+    font-family: 'Montserrat', sans-serif;
+}
